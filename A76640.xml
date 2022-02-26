@@ -1,0 +1,795 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a wicked plot intended and still on foot against the city of Glocester, to betray the same into the hands of the Cavaliers. Discovered by Captaine Backhouse who was wrought upon to have betrayed the same by the sollicitation of one Edward Stanford Esquire, a grand Papist but a lieut: colonell amongst the Cavaliers; and by himselfe set forth to give the Parliament and his Excellencie satisfaction and the better to vindicate his owne integrity. Together with severall letters from my Lord Digby and Sir William Vavasour to Capt. Backhouse concerning the said designe. 4. Maii. 1644. It is this day ordered by the committee of the House of Commons for printing, that this relation be printed by Edward Husbands. Jo. White.</title>
+            <author>Backhouse, Robert, d. 1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76640</idno>
+            <idno type="STC">Wing B265</idno>
+            <idno type="STC">Thomason E45_12</idno>
+            <idno type="STC">ESTC R2502</idno>
+            <idno type="EEBO-CITATION">99872078</idno>
+            <idno type="PROQUEST">99872078</idno>
+            <idno type="VID">154488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154488)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E45[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a wicked plot intended and still on foot against the city of Glocester, to betray the same into the hands of the Cavaliers. Discovered by Captaine Backhouse who was wrought upon to have betrayed the same by the sollicitation of one Edward Stanford Esquire, a grand Papist but a lieut: colonell amongst the Cavaliers; and by himselfe set forth to give the Parliament and his Excellencie satisfaction and the better to vindicate his owne integrity. Together with severall letters from my Lord Digby and Sir William Vavasour to Capt. Backhouse concerning the said designe. 4. Maii. 1644. It is this day ordered by the committee of the House of Commons for printing, that this relation be printed by Edward Husbands. Jo. White.</title>
+                  <author>Backhouse, Robert, d. 1645.</author>
+                  <author>Digby, Kenelm, Sir, 1603-1665.</author>
+                  <author>Vavasour, William, Sir, d. 1659.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ed. Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 7. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A narrative by Backhouse, with the texts of numerous letters to and from him.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stamford, Edward, 1619-1675.</term>
+               <term>Espionage --  England --  Early works to 1800.</term>
+               <term>Gloucester (England) --  History. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Secret service --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154488:1" rendition="simple:additions"/>
+            <p>A true RELATION of a wicked PLOT Intended and ſtill on foot againſt the City. OF GLOCESTER, To betray the ſame into the hands of the <hi>CAVALIERS.</hi> Diſcovered by <hi>Captaine Backhouſe</hi> who was wrought upon to have betrayed the ſame by the Sollicitation of one <hi>Edward Stanford</hi> Eſquire, a grand Papiſt but a Lieut: Colonell amongſt the <hi>Cavaliers;</hi> and by him<g ref="char:EOLhyphen"/>ſelfe ſet forth to give the PARLIAMENT and his <hi>Ex<g ref="char:EOLhyphen"/>cellencie</hi> ſatisfaction, and the better to vindicate his owne Integrity. Together with ſeverall Letters from my Lord <hi>Digby,</hi> and Sir <hi>William Vavaſour</hi> to Capt. <hi>Backhouſe</hi> concerning the ſaid Deſigne.</p>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>4. <hi>Maii.</hi> 1644.</date>
+                     </dateline>
+                  </opener>
+                  <p>It is this day Ordered by the Committee of the Houſe of Commons for Printing, that this <hi>Relation</hi> be Printed by <hi>Edward Husbands.</hi>
+                  </p>
+                  <signed>Jo. WHITE.</signed>
+               </body>
+            </floatingText>
+            <p>London, Printed for <hi>Ed. Husbands. May</hi> 7. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:154488:2"/>
+            <pb n="3" facs="tcp:154488:2"/>
+            <head>A true Relation of a wicked <hi>Plot</hi> intended, and ſtill on foot againſt the City of <hi>Glocester,</hi> to betray the ſame into the hands of the <hi>Cavaliers,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VEre the Intentions of our Enemies, or the grounds of their pra<g ref="char:EOLhyphen"/>ctice yet queſtionable, Nay were not their cauſe already brought to a ſelf-conviction, the manage of their deſignes, and their con<g ref="char:EOLhyphen"/>ſtant proceedings are enough to convince the world, or amaze it. Doubtleſſe deſtruction, miſery, and deſolation muſt needs be the end of thoſe pathes of fury, malice, treachery, and delibe<g ref="char:EOLhyphen"/>rate cruelty; the whole <hi>ſeries</hi> of the Complotment is like it ſelf; and the Enemies of God, and the King, having deſperate and horrid intendments, have reſolved upon proportionable meanes: For wicked purpoſes and miſchie<g ref="char:EOLhyphen"/>vous counſells can never take effect without the height of iniquity firſt reſolved upon, and if either ſhame or conſcience hath the power to check ſuch an under<g ref="char:EOLhyphen"/>taker, he miſtaking his principles muſt needs fall off, or fail in the enterprize. But that cauſe which is grounded upon truth and righteouſneſſe proſpers by the ſame truth. Beſides, a juſt and an honourable action doth abhor the uſe of ſuch meanes, and a minde truely great and noble will not blemiſh the braveneſſe of his end, and doth rather chuſe to be vanquiſht, then to gaine an inglorious Victory. But malicious guilty perſons being conſcious of the vileneſſe of their ends upon which they are deſperately engaged, have not onely hardned their hearts, and ſteeled their faces againſt the imputation of the extract of Villany, but oftentimes burſt out into unneceſſary wickedneſſe, almoſt to the preventing of their own purpoſes, by rendring themſelves odious to the people, the ſtrength of their Malignity ſcarce permitting them to be true to their own ends.</p>
+            <p>Thus the condition of the War on their part, forces them upon the wayes of deceit, and violence; the injuſtice of their cauſe makes it a bootleſſe labour to ſtand upon honorable at chievements, and their owne violent malice oft times prevents the occaſion, and out runnes neceſſity. Had we to deale with an honourable Ene<g ref="char:EOLhyphen"/>mie, the grand intereſt we have in the publique cauſe, could not forbid us to love their perſonall vertues to imbrace their goodneſſe.</p>
+            <p>'Tis baſe and ignoble to derogate from the worth of an Enemy, as none but Rogues would have rayled at <hi>Hanniball</hi> even in <hi>Rome:</hi> But that party dayly
+<pb n="4" facs="tcp:154488:3"/>adds to the neceſſity of their juſt confuſion, when their implacable malice ſhall urge them to tranſgreſſe that common right, which open hoſtility preſerves in<g ref="char:EOLhyphen"/>violable.</p>
+            <p>There is a kinde of deceit, that is commendable; but to conſpire againſt thine adverſary with a boſome friend of his, is a part of deteſtable treacherie, pra<g ref="char:EOLhyphen"/>ctiſed by none but ſuch that ſeek to triumph rather in revenge than glory. For 'tis a point of common juſtice which every one demands, to be ſecure among his own, and 'tis the greateſt tyranny to inforce them either to accuſe or betray. For by this meanes faith and truth is quite loſt, and all inte courſe between man and man made voyde. Therefore brave men are content to ſubmit when over match<g ref="char:EOLhyphen"/>ed by power or skill; but if betrayed, their hearts can never comply, but carry revenge to their grave. So impatient are we of deluſion. Now let themſelves judge whether in this caſe they have not offended againſt that prime law of na<g ref="char:EOLhyphen"/>ture, <hi>Quod tibi ſteri non vis alteri ne feceris.</hi> And let them know there have been ſome ſo Noble as to ſcorn their tender of treaſon.</p>
+            <p>Let this repreſent to the view of the world the vileneſſe of their actions, and in particular the wickedneſſe of that Plot which is diſcovered in this Relation, that all men may deteſt their courſes; that <hi>Neuters</hi> may be rouſed into zeal againſt them, and their own Novices who are not yet deſperately hardned may ſhrink at the horror of theſe things, and fall back while there is a poſſibility of re<g ref="char:EOLhyphen"/>turning.</p>
+            <div type="part">
+               <head>The Plot runs thus:</head>
+               <p>The 19. day of <hi>Novemb.</hi> laſt, Maſter <hi>Stanford</hi> ſent unto me (in whom he concei<g ref="char:EOLhyphen"/>ved he had much intereſt) by the hands of a good friend of mine, this Letter as followeth.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>GOod Robin,</hi> It is not unknown to you that once I loved you, and therefore I ſend this to adviſe you, whilſt it is in your power to make uſe of it, and take my word I am confident as yet you may not onely have your pardon, but raiſe your ſelf a greater fortune, than the condition of thoſe you ſerve are able to afford you. This you may gaine by the delivery, you may gueſſe my meaning of what place, which is not hard for you to do. You know the old ſaying, <hi>Fal<g ref="char:EOLhyphen"/>lere fallentem non eſt fraus,</hi> this is the adviſe of him that when you ſhall deſiſt the cauſe, will ever be,</p>
+                     <closer>
+                        <signed>
+                           <hi>Your loving Friend,</hi> Edward Stanford.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This Letter being reade by me, and conferring with the Meſſenger (my friend) who told me, that if I would undertake the ſame buſineſſe, I ſhould have 5000. l. for my reward: Inſtantly I went unto the faithfull and worthy Governour, and ſhewed it unto him, and told him from whom it came, by whom, and what re<g ref="char:EOLhyphen"/>ward
+<pb n="5" facs="tcp:154488:3"/>was propoſed, and withall declared my diſlike thereof. Whereupon the go<g ref="char:EOLhyphen"/>vernor conſidering thereof, adviſed to imbrace the buſineſſe, and practice the do<g ref="char:EOLhyphen"/>ctrine propounded in the Letter of <hi>fallere fallentem &amp;c.</hi> and that for theſe reaſons.</p>
+               <p n="1">1. That the Net which they would lay for us, might be a ſnare unto them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p n="2">2. That other Plots and Treacheries againſt the City might not be contrived, ſo long as they had a fair probability of prevayling by this.</p>
+               <p n="3">3. That the Country adjacent to the City (which was by the Malignant Gentry of the Country and other evill counſellors) decreed (upon a Petition by them pre<g ref="char:EOLhyphen"/>ferred unto His Majeſty) to utter deſolation, ruine and depopulation, might by this meanes be preſerved, and ſpared by the enemie in hopes to enjoy the benefit and aſſiſtance thereof themſelves.</p>
+               <p n="4">4. That this Plot and expectation of the Enemy might be procraſtinated, and led a long at leaſt till the Country had vented in the Market their ſpare Proviſions of corn and cattell which they then had, and for the doing whereof the time was then at hand.</p>
+               <p n="5">5. That ſuch their hopes of obtaining the City of <hi>Glouceſter,</hi> thereby occaſioning the drawing down of Forces thither, might give the Parliament Forces in other parts of the Kingdome, the greater freedome to execute their deſignes with leſſe oppoſition.</p>
+               <p n="6">6. That fair promiſes might allay their fury to the country, till our relief came that we were able to feede them with harder meat, and till winter were paſt that Armies were fit to march.</p>
+               <p n="7">7. That they might in the end ſee the curſed and ſhamefull fruit of ſuch wicked inventions, and their hopeleſſe aime to prevaile againſt a Citie United, and at<g ref="char:EOLhyphen"/>tempt no more ſo evill.</p>
+               <p n="8">8. That the Enemy and the world may know that the Officers and Souldiers in the gar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſon of <hi>Glouceſter</hi> are not ſo perfidious as to betray their truſt to diſhonour themſelves to all poſterity for any reward whatſoever.</p>
+               <p>For theſe and the like reaſons and upon conſultation had with ſome other of the chief Officers of the garriſon, who approved thereof, I applyed my ſelf to the bu<g ref="char:EOLhyphen"/>ſineſſe, without imparting any ſyllable of my minde to the Meſſenger, but by giving of this anſwer to Mr. <hi>Stanfords</hi> firſt Letter.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>I Am bold to write freely to you by this Meſſenger at this time, I perceive your deſire, And I would have you know, that I ſhall be ready to doe his Majeſtie (whom I proteſt I honour with my ſoule) all the reall ſervice I may. But there are two things that I muſt firſt propoſe to you, and have a grant of them. Firſt, ſworn ſecrecy to as many as ſhall be acquainted with it, (and they muſt not be ma<g ref="char:EOLhyphen"/>ny.)
+<pb n="6" facs="tcp:154488:4"/>Secondly, there muſt be a Meſſenger between us that may paſſe to you, and muſt not be ſuſpected here, (which my friend would be if he ſhould come often) and this Meſſenger muſt know nothing of our intentions, for which purpoſe I have ſent one now (under my friends protection) to whom you muſt procure a free paſſe under His Majeſties hand, he is a fellow truſty to me, and dwells in the ſuburbs of the Town whereby he may come home without ſuſpicion; let me heare from you now by him, and where I may ſend to you again, and once within 10. or 12. dayes you ſhall heare from me again; before which time I ſhall conſider more ſeriouſly of the buſineſſe, and of ſome more particulars then in ſo ſhort time as the ſtay of this Meſſenger can be brought to any maturity. Sir, you know my heart, and be aſſured, I am and will be, Sir, your humble ſervant in all I may,</p>
+                     <closer>
+                        <dateline>
+                           <date>20. <hi>Novem.</hi> 1643.</date> 
+                           <hi>Rob: Backhouſe.</hi>
+                        </dateline>
+                     </closer>
+                     <postscript>
+                        <head>Poſtſcript.</head>
+                        <p>As for the reward you ſpeak of, you know my eſtate is not great, and therefore I shall deſire you as my approved friend to manage it ſo, as that I may be aſsured not to play an after game poorly.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>This Letter being shewed unto the governor, and other Officers privy to the buſineſſe, I ſent it away to Mr. <hi>Stanford</hi> to <hi>Worceſter,</hi> who returned me this Letter following. Dated, 27. of <hi>Novem.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>2.</hi> Letter.</head>
+                     <p>
+                        <hi>GOOD Robin,</hi> I received much contentment in your private Letter, in the de<g ref="char:EOLhyphen"/>ſire you expreſſe to ſerve the King, which will give me meanes of doing you much good: Your two requeſts ſhall be obſerved, Secrecy, and ſettling a ſafe meanes for our correſpondency. For the firſt, there ſhall be no body acquainted with it, but the beſt friend I have in the world, my Lord <hi>Digby,</hi> who you may be ſure, will be able to performe to you what ever you ſhall expect for your reward: As when you ſhall deſcend to particulars of the ſervice you will do, and what you deſire, you ſhall receive an ingagement from his Lordſhips owne hands; And therefore I pray you loſe no time in propoſing, for the meanes of conveying our ſecrets do you appoint in your next Letter by this bearer the convenienteſt place for you, and there I will have a truſty fellow lie Leager to receive your Letters, and deliver you mine; and be you confident upon my word, and faith, that you ſhall not faile in what ſhall be promiſed you: I will expect your anſwer at <hi>Worceſter,</hi> on Wedneſday, and lie there on purpoſe to keepe a correſpondence with you.</p>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>To this Letter was, by conſent, as formerly, returned this Anſvver.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Noble Sir:</salute>
+                     </opener>
+                     <p>THe reality I have ever found in you, makes me the more confidently to rely upon you. You writ me of your only beſt friend, that you will ſolely acquaint
+<pb n="7" facs="tcp:154488:4"/>with our intentions; I conceive it muſt be imparted to ſome more; for you muſt de<g ref="char:EOLhyphen"/>viſe and ſet the way amongſt your ſelves, you know my command is of the horſe; by which meanes I may the more eaſily introduce a force without any ſuſpicion, but whence ſuch force ſhall come, you muſt direct, and the Commanders of ſuch for<g ref="char:EOLhyphen"/>ces muſt needs be acquainted with it. Doe you but lay the plot, and be private, and if it take not one way, ere long I queſtion not but it will another; but I doe adven<g ref="char:EOLhyphen"/>ture my life if I ſhould be diſcloſed, therefore I deſire all ſecrecie. And when I heare from you againe, I ſhall returne you an anſwer by this bearer, which I thinke will be leaſt ſuſpected of any if he may but come freely to you.</p>
+                     <closer>
+                        <dateline>
+                           <date>29. <hi>Novemb.</hi>
+                           </date>
+                        </dateline>
+                        <salute>Sir,</salute>
+                        <signed>Your reall Servant.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <p>
+                  <label>3 <hi>Letter.</hi> 
+                  </label>
+                  <hi>The firſt of</hi> Decemb. <hi>that no time might be loſt, I received from</hi> Wor<g ref="char:EOLhyphen"/>ceſter <hi>this 3d. Letter from the ſame Maſter</hi> Stanford.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>DEare <hi>Robin,</hi> be confident I will be as ſecret as you can deſire, and the Officers themſelves ſhall not know the deſigne. Now I ſhall deſire you to propound ſome particulars which way you think moſt probable, and leave us alone for the drawing downe of forces; I ſhall expect a ſudden returne of this bearer with ſome particulars: ſo in haſt I reſt</p>
+                     <closer>
+                        <signed>Your aſſured loving friend.</signed>
+                     </closer>
+                     <postscript>
+                        <head>Poſtſcript.</head>
+                        <p>I ſhall deſire you to propoſe the way, it being farre eaſier for you to ſet it downe, then for us to imagine it; and for your conditions, name them, and I will undertake they ſhall be performed.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>To this Letter, to make them the more confident, and the better to accompliſh our deſignes, this anſwer was given.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Noble Sir:</salute>
+                     </opener>
+                     <p>I Have conſidered of your laſt; by which you deſire my conceit in propoſall of particular Propoſitions, and of my reward, to both which I ſhall thus propoſe unto you to preſent to more mature judgements.</p>
+                     <p n="1">1 Whether I may not by drawing out my Troope in an evening (as I can doe at any time) meet with your forces, and bring them in upon a ſudden in a Moone-ſhine night at the Gate, and ſo maſter the firſt Guard, which may eaſily be done, and not diſcerned till too late, my Troope being above 60. who may be all in the reare and at your mercy, though I might my ſelfe lead in the force, which cannot give the Alarum in the night ſo ſoone as to prevent the deſigne.</p>
+                     <p n="2">2 Whether if I perſwade the Governour to draw out a ſtrong party of foot and horſe, upon ſome deſigne to lye out all night, eight or ten miles diſtant from the
+<pb n="8" facs="tcp:154488:5"/>Garriſon, (as I know I can doe) and I my ſelfe ſtay at home, in whoſe abſence you may ſafely advance in the evening to the Towne ſide, when I can come out to you, and ſo bring you in under colour of our owne forces.</p>
+                     <p n="3">3 Whether if I find out a place ſlenderly guarded, and ſomewhat eaſie to come in at, I may not draw off the Centries upon ſome pretence (as I can doe) being known to them all, and there direct your entrance.</p>
+                     <p n="4">4 Whether if I ſend for Hay, and give you notice of the very time of its com<g ref="char:EOLhyphen"/>ming in; which muſt be in the night, I may not after the Carts bring in ſome men as Carters, who may have Snaphance Muſquets in the Carts, and ſome Dragoones to fall in, in the very Reare of the Carts, who may maſter the firſt Guards, and poſſeſſe the Ordnance there, and ſo let in both horſe, and foote, who with ſuch Ordnance may march through all the ſtreets in towne.</p>
+                     <p>Theſe ſeverall waies I propoſe for the preſent, but I conceive that thoſe who have been verſed in the taking of Townes, or are better read in ſurpriſalls of Gar<g ref="char:EOLhyphen"/>riſons may make more choiſe of Propoſitions; any of which if I apprehend it feazi<g ref="char:EOLhyphen"/>ble, I ſhall gladly undertake or render my reaſon of diſlike if I conceive it not ſo. But Sir, I muſt once more conjure you by all the bonds of ancient affection that ever were between us, and as you deſire the progreſſe of the deſigne, that you be carefull to whom you impart this great ſecret; for if it ſhould be known or ſuſ<g ref="char:EOLhyphen"/>pected in me, I ſhall be utterly ruined, and undone. This very Letter adventures my necke, as for my reward I am right ſenſible of how great concernment the buſi<g ref="char:EOLhyphen"/>neſſe is unto your ſide; and albeit you know it is utterly againſt my ſpirit to indent before hand for my reward, eſpecially with ſo gallant and noble Perſonages, yet the ſtraites for mony that of late I have been put unto, having as yet received no pay at all for my ſelfe from thoſe I ſerve, and the condition of my eſtate and charge conſidered bids me a little looke to that: I was told of 5000. l. that ſhould be gi<g ref="char:EOLhyphen"/>ven me, I ſhall onely expect 2000. l. to be ſecured, two or three hundred whereof I ſhall deſire you as my friend to procure me in hand as ſoon as may be, that there<g ref="char:EOLhyphen"/>by I may be enabled to beare up my Port and credit, eſpecially amongſt all the common ſouldiers and under officers of the Garriſon, to whom I muſt be open han<g ref="char:EOLhyphen"/>ded to ingage affection, that they may readily open when I call at any time. Se<g ref="char:EOLhyphen"/>condly to engage mine owne Troope, and to bind ſuch unto me with a ſilver cord as I ſhall find fitteſt for my purpoſe. And thirdly plentifully to reward intercour<g ref="char:EOLhyphen"/>ſers between me and you, or me and ſuch others as you ſhall appoint, who may execute my command upon a ſudden with all celerity and fidelity. Theſe things I ſhall thus leave unto your conſideration and mannage, but aſſuredly know that I ſhall be, ſir, your ſervant with all fidelity I may,</p>
+                     <closer>
+                        <signed>Robert Backhouſe.</signed>
+
+                        <date>7. <hi>Decemb.</hi> 1643.</date>
+                     </closer>
+                     <postscript>
+                        <head>Poſtſcript.</head>
+                        <p>If you take care that the Meſſenger paſſe but ſafe to Tewkesbury, you may ſend any thing by him very ſafely, and I hope ere long you and I may meet to diſcourſe it when all the world ſhall not know.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <pb n="9" facs="tcp:154488:5"/>
+               <p>This Letter being ſent, gave Mr. <hi>Stanford</hi> ſuch hopes of prevailing in his deſigne that it went to <hi>Oxford,</hi> as afterwards appeared, but in the interim I received this Letter from him.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>4th.</hi> Letter.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>ON Friday let this Meſſenger come to <hi>Worceſter,</hi> and by him you ſhall receive backe an anſwer of your particulars. But by him I would have you ſend me word which way you would have the monies conveyed to you, and I doubt not but ſhortly to ſee you a very happy man. As for the ſumme you require, <hi>Bultie [A Manour neere Glouceſter of his]</hi> ſhall make it good, but you may take my word, for I promiſe you, I will ſee it paid in ready money.</p>
+                     <closer>
+                        <dateline>
+                           <date>12. <hi>Decemb.</hi>
+                           </date>
+                        </dateline>
+                        <signed>E. S.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>I doubt not but the Parliament will in time make this Gentleman to make good his promiſe in this Letter; on the 15th. of <hi>Decemb.</hi> I ſent this Letter following.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Noble Sir:</salute>
+                     </opener>
+                     <p>I Have ſent this Meſſenger according to your deſire, and ſhall expect to heare from you by him. And whereas you deſire to know how to convey any money to me, this bearer is as true as ſteele, and if he come but ſecure to Tewksbury, there is no danger on this ſide; he may bring any ſumme in Gold with eaſe and ſafety Thus in haſte for preſent I take leave and reſt, Sir: Your reall ſervant with child till I can handſomely ſee you.</p>
+                     <closer>
+                        <signed>R. B.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>To this Letter I expected a full anſwer, and of my former, but that was not ful<g ref="char:EOLhyphen"/>ly ripened at <hi>Oxford,</hi> but he returned me this anſwer by my meſſenger.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>5th.</hi> Letter.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>DEare <hi>Robin,</hi> if you will make your ſelfe a fortune, performe really what you have promiſed, for others may hereafter on the ſame conditions be glad t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> make good your offers; this I doe not ſpeake that I doubt you in any thing but you know there is no love without ſome jealouſie; as for our meeting I will no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> faile, for I am confident you have no plot on me: But I cannot appoint it till <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſee this bearer again, which without fail muſt be on Tueſday next, and then I my ſe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> will march neerer your quarters, for I doe long to have buſineſſe finiſhed, that w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> may, as we were once, be fellow ſubjects merry together, and by his returne you ſhall receive a full fatisfaction according to your own deſires, which I will be con<g ref="char:EOLhyphen"/>fident are as honeſt as once I found them.</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>Friday</hi> 10. <hi>of the clocke.</hi>
+                           </date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>To this Letter no anſwer was returned, but I ſent my Meſſenger to <hi>Worceſter</hi> according to his deſire, by whom I received theſe two Letters.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>6th. Let</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </head>
+               <pb n="8" facs="tcp:154488:6" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:154488:6"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:154488:7"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>DEare <hi>Robin:</hi> this incloſed I am very confident will be very ſatisfactory to you, and let me tell you if you prove but reall in what you have promiſed, you cannot propoſe to your ſelfe a greater happineſſe, then I am confident you may purchaſe, by really performing of what you have promiſed. On Sunday I ſhall deſire to have an anſwer of this incloſed, that I may as ſoone as it is poſſible effect a meeting, for beleeve me it is equally wiſhed by him that covets to be</p>
+                     <closer>
+                        <signed>Your loving friend, E. S.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <label>
+                     <hi>L.</hi> Digbyes <hi>Letter.</hi>
+                  </label>The incloſed Letter was;</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIr:</salute>
+                     </opener>
+                     <p>you having ſo farre declared your deſires to ſerve his Majeſty unto my very good friend Mr. <hi>Stanford,</hi> I thinke it fit you ſhould now receive ſome more authenticke aſſurance of his Majeſties gracious acceptance thereof, then perhaps you will thinke his bare ingagement to be; therefore I doe here ſolemnly ingage any word unto you, both as a Miniſter of State, and as a Gentleman, that if you ſhall perform faithfully what you promiſe there you ſhall punctually receive immediatly after, ſuch a pardon as your ſelfe ſhall deſire, and the ſumme of two thouſand bounds. As for the 300. l. which you deſire in preſent, ſuch a confidence I will have in your word, that as ſoone as ever I ſhall have received your anſwer to this under your hand, It ſhall be forthwith payed into what place ſoever you ſhall ap<g ref="char:EOLhyphen"/>point, or to what perſon. As for the particular waies of effecting our deſigne, thoſe you propoſe are very rationall, but the choiſe and diſpoſition of that muſt be between you, and thoſe who are to execute it, with whom if it were poſſible you ſhould procure a meeting at ſome unſuſpected place; I doe propoſe unto you your choiſe of ſeverall men, and whom of them you ſhall like beſt, and thinke fitteſt by reaſon of the place where his command is to him alone, and no other buſineſſe ſhall be imparted, whether Sir <hi>William Vavaſour</hi> commander in chiefe of the forces now <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n Gloceſterſhire, or Colonell <hi>Mynne</hi> commander of a Brigade of the Engliſh come out of <hi>Jreland,</hi> or Colonell <hi>Waſhington,</hi> who is at Eveſham; or laſtly whether <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Governour of Berkly Caſtle; as ſoone as you ſhall ſead me an anſwer, you ſhall receive ſatisfaction from him, who hopes you will ſo behave your ſelfe, as to make me,</p>
+                     <closer>
+                        <signed>Your aſſured friend, George Digby.</signed>
+                        <dateline>Oxford <date>this 14th of Decemb. 1643.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Thus may the world ſee how ignoble this Lord will ingage his honour and per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, to inſinuate into his Majeſties favour to ruine a Kingdome, to betray a City, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd many thouſand innocent ſoules into mercileſſe hands, and to make me (a man <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e never ſaw, or he cares not whom) the trayterous actor thereof; well, to this <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etter, by conſent, as before, was given this anſwer.</p>
+               <pb n="11" facs="tcp:154488:7"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My honoured Lord,</salute>
+                     </opener>
+                     <p>I Have received your Lordſhips, and have conſidered thereof; And your Lordſhips directions ſuits with what I wrote unto Maſter <hi>Stanford</hi> in one of my late Letters to him, <hi>(viz.)</hi> That the Commander of ſuch Forces as are to come in, muſt of neceſſity be privie to the Deſigne. As touching the choice your Lordſhip propoſeth to me, I conceive that Sir <hi>William Va<g ref="char:EOLhyphen"/>vaſour</hi> will be the fitteſt man.</p>
+                     <p n="1">1. Firſt, becauſe he is the neereſt in his command unto the buſineſſe, Co<g ref="char:EOLhyphen"/>lonell <hi>Mynne</hi> is twenty miles off (lying then at <hi>Thornbury</hi>) Colonell <hi>Waſh<g ref="char:EOLhyphen"/>ington,</hi> the like (then at <hi>Eveſham</hi>) the Governour of <hi>Berkly</hi> fifteen, and of an inconſiderable ſtrength there, but Sir <hi>William Vavaſours</hi> forces lye not above twelve miles diſtant (then at <hi>Ledbury</hi>) and hath ſtrength enough of his own.</p>
+                     <p n="2">2. He may beſt come to the Garriſon undiſcovered, there being towards his Quarters no Suburbs or houſes neer to the Town, nor other out guards or ſmaller Garriſons in his way, whereby to give any Alarum. If I hear by Mr. <hi>Stanford</hi> from him, when will be a fit time for him, I ſhall upon a very few dayes notice, comply with his expectation, as Mr. <hi>Stanford</hi> and I ſhall agree upon all circumſtances, with whom I hope to ſpeak ere long. Thus much I thought fit to acquaint your Honour, and reſt</p>
+                     <closer>
+                        <dateline>
+                           <date>28 <hi>Decem.</hi> 1643.</date>
+                        </dateline>
+                        <salute>My Lord,</salute>
+                        <signed>your Honours moſt humble Servant, R. B.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>At the ſame time was ſent to Mr. <hi>Stanford,</hi> this anſwer to his Letter.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>SInce I received your Letter, I have received a wound, by a ſhot in my hand, which hath ſo peſtered me, that I could not write unto you ſooner, I have written to the noble Lord <hi>Digby</hi> my opinion, as by the incloſed you may perceive. Sir, I cannot ſuddenly ride far, but if you pleaſe to come ei<g ref="char:EOLhyphen"/>ther to <hi>Ledbury,</hi> or to Sir <hi>Iohn Winters</hi> Quarters, you may then in any even<g ref="char:EOLhyphen"/>ing meet me in <hi>Corſlane,</hi> the middle way between this Garriſon and <hi>Ledbury,</hi> where you and I may meer, and the Moon not know thereof, if you ſo think fit, and ſhall appoint an hour, I ſhall not miſſe you a minute, for into your hands I dare throw my ſelf with freedom though I ſhall be loath to truſt any other I know not, either with my perſon or ſecret. Sir, as for my ſatiſ<g ref="char:EOLhyphen"/>faction, I am ſatisfied with my Lords ingagement for the main, and I ſhall expect the three hundred pounds promiſed in hand (for the Reaſons in my laſt Letter expreſſed) to be ſent me by this Bearer, with whom you may in
+<pb n="12" facs="tcp:154488:8"/>this caſe ſend a Convoy of eight or ten good horſes as far as <hi>Corſlane</hi> with<g ref="char:EOLhyphen"/>out any fear of us, and then it will be ſure to be ſafe <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> refer the buſines to your manage, aſſuring you confidently that I am your moſt humble ſervant.</p>
+                     <closer>
+                        <signed>R. B.</signed>
+                     </closer>
+                     <postscript>
+                        <head>Postſcript.</head>
+                        <p>Sir, I beſeech you be carefull of theſe Letters, and as ſecret as the night, or I muſt periſh miſerably.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Theſe two Letters being diſpatcht away to</hi> Worceſter, <hi>they wrought accord<g ref="char:EOLhyphen"/>ing to our deſires, a belief and hopes of my reallity to accompliſh their wicked Deſigne.</hi>
+               </p>
+               <p>
+                  <hi>Whereupon,</hi> Ianuary the ſecond, <hi>I received this Letter following from Ma<g ref="char:EOLhyphen"/>ſter</hi> Stanford.</p>
+            </div>
+            <div type="part">
+               <head>The ſeventh Letter.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>DEar <hi>Robin,</hi> I am ſo deſirous of your good, which is onely to be effected by your promiſes, that I am a little fearfull of doing any act, till it have been debated, twice or thrice between us, leaſt it may hinder the good ſer<g ref="char:EOLhyphen"/>vice you intend; And I am confident you abſolutely reſolve to perform, and be aſſured this, it is not in your power to oblige them you ſerve, to gain ſo much for your own advantage as you may the King, by going through with this buſineſſe, nor are they in a condition, thanks be to God, able ſcarſe to promiſe you ſo great rewards as here you ſhall aſſuredly receive. Now, dear <hi>Robin,</hi> I ſhall tell you my minde, Firſt, concerning the Moneys, I conceive it moſt unſafe, and wholly unneceſſary, for it is impoſſible he ſhould bring it ſafe without a Convoy, the greateſt part of the way, and how eaſie that may be diſcovered, I leave to you to judge.</p>
+                     <p>Secondly, you cannot diſpoſe of it to them you intended without diſcovery, the buſineſſe being ſuddenly to be executed; the Moneys I have ready, but I think it fitter to pay it to ſome friend of yours, according to your directi<g ref="char:EOLhyphen"/>ons, by way of return, but for fifty or one hundred pounds, I think we may venture it; And if it be taken, you may pretend you are to ſend me a Coach and Horſes for it.</p>
+                     <p>Thirdly, for my meeting you, it will be unneceſſary, till Sir <hi>William Va<g ref="char:EOLhyphen"/>vaſour</hi> return from <hi>Briſtoll</hi> with more forces.</p>
+                     <p>Fourthly, that you muſt appoint ſome other place for our meeting, in re<g ref="char:EOLhyphen"/>gard of Sir <hi>John Winters</hi> lying at <hi>Newnham.</hi>
+                     </p>
+                     <p>This is the opinion of him that will ever be your affectionate friend,</p>
+                     <closer>
+                        <signed>E.S.</signed>
+                        <date>2 <hi>Ian.</hi> 1643.</date>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="13" facs="tcp:154488:8"/>
+               <p>To this Letter was given this anſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Dear Sir,</salute>
+                     </opener>
+                     <p>I Sent on Wedneſday laſt to you, but heare is nothing of the Meſſen<g ref="char:EOLhyphen"/>ger, I fear his taking, which if it ſhould be, I pray your care for his inlargement.</p>
+                     <p>You writ me, that you conceive it unneceſſary as yet to meet mee, and the place unfit; any place is indifferent to me; but that place from <hi>Ledbury</hi> is an indifferent place, and free from ſuſpicion, either by day or by night, that therefore I ſhall leave to you when and where to meete; I will bring no ſoule with me, but ride without ſword or Piſtoll as to take the ayre, let your care be to preſerve me from any of your Scouts, for I muſt ride from any two, or more that I ſhall ſee, but I ſhall be glad to ſee you; as for the three hundred pounds, you writ me word you have it. Sir, I muſt tell you, that ſince this buſi<g ref="char:EOLhyphen"/>neſſe hath been working in my head (which I have pretty well perfected now) I have been inforced to take up money at a hard hand to doe the things I intended. And it is impoſſible that you can imagine the ſundry waies that I have layed in my head, and partly put in action to further and prepare mine owne ſecret intentions. And truely Sir, I muſt tell you, the money is ſo neceſſary to me, that n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>x<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> unto my fide<g ref="char:EOLhyphen"/>lity, promiſe, and ingagement to my Lord <hi>Digby,</hi> and your ſelfe, it is the chiefe moving wheele; and if there be the leaſt jealouſie of my fidelity, I ſhall deſire you (as my trueſt friend in the world) to let me know, and then I ſhall crave onely favour to have all papers burnt, my counſells kept, liberty to bewaile mine owne unhappineſſe, and that I may ſerve them and you in ſome other buſineſſe of leſſer truſt, wherein mine integrity may more appeare with leſſe ſuſpition. If the ſumme I deſire in hand, be thought too great an adventure, I would have you conſider mine adventure, the leaſt line of any of my Letters being ſufficient to have me hanged; and this I have and muſt commit into ſeverall mens boſomes whom I never ſaw, but build my faith upon your judgement and integrity, without any jealouſie or feare, which I ſhould not doe, were you not Maſter <hi>Stanford:</hi> for that which you write of the danger in the paſſage, how eaſie a matter will it be for you to command a dozen honeſt men to ride a long almoſt to Tewksbury to guard a little money, that you may pretend you are ſending to pay to ſave the forfeiture of a morgage. And if you ap<g ref="char:EOLhyphen"/>point but the day, how eaſie is it to me to ſend my Troope to Tewkſ<g ref="char:EOLhyphen"/>bury to meete a little money, which is to be paid unto me upon a bond.
+<pb n="14" facs="tcp:154488:9"/>Ile ſtand to the hazard on our ſide, and I know you may ſecure it on yours. Well, I leave the buſineſſe to your conſideration, but for my ſelf. I am de<g ref="char:EOLhyphen"/>voted to your ſervice, whilſt I am,</p>
+                     <closer>
+                        <signed>R. B.</signed>
+                        <date>3. <hi>Ian.</hi> 1643.</date>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>About the 7. <hi>Ian.</hi> Maſter <hi>Stanford</hi> ſent me a Meſſage by the friend who brought the firſt Letter to me, by word of mouth, to meete him in Corſe<g ref="char:EOLhyphen"/>lane the day following, where accordingly we met; my Lieutenant ſcouting behind me the while, to prevent my own ſurpriſall; where I received 200. l. of him, and his promiſe to diſcharge me of a bond of 50. l. wherein I was formerly bound to one <hi>Font</hi> a great Papiſt, and a very friend of his. At which time the Plot was layed by him Sir <hi>Will. Vavaſour</hi> and others, who were then lately come to <hi>Tewksbury;</hi> That I ſhould endeavour to draw the Governour out of the <hi>Garriſon</hi> with a very ſtong party, towards <hi>Berkley,</hi> with aſſurance that the Caſtle ſhould be rendred, which Maſter <hi>Stanford</hi> told me ſhould really be, ſo that the gaining of <hi>Gloceſter,</hi> might be the more facile, in whoſe abſence I muſt undertake to get the Gate opened, and the Word delivered to them; which Plot when I heard it propoſed, I much approved, but with<g ref="char:EOLhyphen"/>all I adviſed that the Forces might ſuddenly be drawn off from <hi>Tewks<g ref="char:EOLhyphen"/>bury,</hi> aſſuring him that whilſt they lay there, I ſhould not be able to draw out the Governour, which he promiſed ſhould be done, aſſoone as he ſpake with Sir <hi>William Vavaſour.</hi> This Plot if it had beene thus proſecuted by them, had been by Gods mercy of great gaine to us. For we thereupon reſolved to have ſent a Garriſon into <hi>Berkley</hi> Caſtle, and with ſilent Forces from <hi>Presbury</hi> Garriſon to have poſſeſſed <hi>Tewksbury,</hi> and by ſpeedy re<g ref="char:EOLhyphen"/>treating to have made that good alſo. But it ſo fell out, that they fell off and deſerted their owne Plot, as will appeare by the ſequell. But one thing was remarkable, that at this meeting, Maſter <hi>Stanford</hi> never ſo much as moved me to any aſſeveration of fidelity to him, but deſired me to ſend unto him within two dayes, which I did as followeth.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>I Have ſent according to my promiſe, but the Governour is ſo intent and ſerious in wayring upon the Forces at <hi>Tewksbury,</hi> that until they be remo<g ref="char:EOLhyphen"/>ved, it will be vaine to move him to draw out any other way, but when they are Marcht a day or two I am confident, that I ſhall perſwade his march to <hi>Berkley,</hi> eſpecially if he may have any aſſarance of their rendring the Caſtle (which you told me would be) and which will occaſion him to ſtay a day or two to ſettle the ſame, who otherwiſe (out of his care of <hi>Glouceſter</hi>) is
+<pb n="15" facs="tcp:154488:9"/>apt, and wont to make ſpeedy retreats when he is abroad. Sir, if you come to <hi>Newnham</hi> towards Saturday or Sunday, Sir <hi>Iohn Winter</hi> may ſend you in a man to me to appoint when I may meete you in <hi>Huntloys</hi> wood, or on the hill beyond <hi>Huntley,</hi> after you have conferred with him, whoſe ſe<g ref="char:EOLhyphen"/>creſie I ſhall deſire you much to engage, and then I ſhall agree more fully with you on all Circumſtances; <hi>Sir,</hi> I beſeech you know and reſt aſſured that I am,</p>
+                     <closer>
+                        <signed>Your moſt humble Servant in much care till, &amp;c.</signed>
+                        <date>11. <hi>Ian.</hi> 1643.</date>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>To which Letter I received this anſwer.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>DEARE Robin,</hi> the reaſon why you have ſtayed ſo long for an anſwer is this; Sir <hi>William Vavaſor</hi> ſent to the Governour of <hi>Berkley</hi> Caſtle to draw out his whole Garriſon, which he refuſing to do without the Kings or Princes ſpeciall Command; We ſhall now flye to one of your former pro<g ref="char:EOLhyphen"/>poſitions, being confident you will not faile to make good any one of them, which was that you would at any time draw out your own Troop with one more which ſhall be put in the Reare of our horſe, and your ſelf to leade our Forlorne hope into the Town, which if you will do, ſend but this Meſ<g ref="char:EOLhyphen"/>ſenger with a note to Sir <hi>William Vavaſour</hi> what day you will meete him, and I will not faile to be there, this you muſt be ſure to do on Wedneſday next, for the buſineſſe will admit of no delay.</p>
+                     <closer>
+                        <signed>Yours, E. S.</signed>
+                        <date>16. <hi>Ian.</hi>
+                        </date>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>With this Letter I received a Letter from Sir </hi>William Vavaſour<hi> as followeth.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Sir <hi>William Vavaſours</hi> firſt Letter.</head>
+                     <p>
+                        <hi>SIr,</hi> I was ſo confident of your reallity in endeavouring to performe what you have undertaken, that I immediately ſent Orders to <hi>Berkley</hi> Caſtle to the Governor, who wil not obey my orders ſo fully as to draw out the whole Garriſon without his Majeſties ſpeciall Orders, a great part he will, but would have a Reaſon; I have drawn great part of the foote towards <hi>Parſhoe,</hi> and endeavoured to have marched with the reſidue, and all the horſe. But Sir <hi>Walter Pie,</hi> and ſome other Commiſſioners were ſo oppoſite to it, that unleſſe they might know, and approve of my de<g ref="char:EOLhyphen"/>ſigne, they would not conſent to it, which I thought might be a diſ-ſervice to you; I have quite left them unſatisfied with what I intended, ſo that Sir <hi>Walter Pye</hi> is gone to <hi>Oxford</hi> with a great complaint, but that is nothing, did it not prevent your Motion; So that now, Sir, I muſt intteate you to follow
+<pb n="16" facs="tcp:154488:10"/>what you firſt moved, that is, you draw out of Town your own Troop, or one more if you can, a good diſtance from Town, you having the Word may lead on the Forlorne hope, and your horſe may bring up the Reare; the per<g ref="char:EOLhyphen"/>formance of this will confirme your friends in their good opinions of you, and oblige me to expreſſe my ſelf,</p>
+                     <closer>
+                        <dateline>
+                           <hi>Tewksbury.</hi> 
+                           <date>16. <hi>Ian.</hi> 1643.</date>
+                        </dateline>
+                        <signed>
+                           <hi>Your humble Servant,</hi> Will. Vavaſour.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Thus you ſee how Sir <hi>William Vavaſour,</hi> a man of renown, as Fame would render him, can ſmoothly inſinuate to promote ſo foule a treachery, and would make me beleeve that he will rather hazard a chiding by the King, and the diſpleaſure of many other Gentlemen of worth, his very friends, then that any ſoule ſhould be privy to ſo great a ſecret. Not imagi<g ref="char:EOLhyphen"/>ning that I well knew long before, that not onely the Lord <hi>Digby,</hi> Maſter <hi>Stanford,</hi> Sir <hi>Iohn Winter,</hi> Maſter <hi>Dutton,</hi> and the whole Counſell of War at <hi>Tewksbury:</hi> Nay the whole Court at <hi>Oxford</hi> were acquainted with the deſigne, but alſo (for ſo cloſely did they carry this buſineſſe, which was of ſo great conſequence to them) that <hi>Brittanicus</hi> hath blazoned me in Print long ſince for a Traitor, and well he might, had all that they have let fall and divulged beene really true. By which paſſages, by the way, let all falſe hearted traytors, who for baſe private ends would faine be tampering with the Enemie to betray their truſts, take heede what they do; for they cannot keepe ſecrets. And yet they are ſo wiſe (do them right) as never to truſt him in any Office or place of charge for them, who for any reſpect hath been drawn to infidelity and breach of truſt by them: But to proceede, the next day after the receipt of Sir <hi>William Vavaſours</hi> Letter, with whom now I muſt as with my Lord <hi>Digby,</hi> keep correſponden<g ref="char:EOLhyphen"/>cy; I gave him this anſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>I Am ſorry to heare that our Intentions ſhould be ſo fruſtrated, eſpecially ſince I had ſo far proceeded in mine own thoughts in the mannage there<g ref="char:EOLhyphen"/>of. And Ile aſſure you, I ſtill finde the Governour ſo diligent in obſerving the Garriſon at <hi>Tewksbury,</hi> that he hath given private commands to the Officers both of horſe and foote, to be inſtantly ready upon notice given of your leaſt advance this way, for which purpoſe he conſtantly day and night keepes good parties of Horſe out as Scouts to bring him notice; Inſo<g ref="char:EOLhyphen"/>much
+<pb n="17" facs="tcp:154488:10"/>that I feare it will be impoſſible for my Troop, and your Forces to joyn without diſcovery; which how dangerous that may be unto us both, I leave to you to judge eſpecially when he and all his ſtrength be at home: did not his eyes ſo much look upon your ſtrength, and the neere<g ref="char:EOLhyphen"/>neſſe of your quarters, then would the propoſition you now fal on be far eaſier effected and with much more ſafety. For as I ſhall be glad to corfirme the good opinion my friends have of me, in really performing what I have undertaken, being confident that they will take care of me, who thus often hazard my life and fortune for them, ſo ſhall I be infinite loath to draw them on upon any deſigne that may prove preju<g ref="char:EOLhyphen"/>diciall to them, the right laying of the buſineſſe is the life thereof, the miſcarriage the utter deſtruction both of my ſelf and many of them, be<g ref="char:EOLhyphen"/>ſides the utter loſſe of effecting ſo good, and ſo great a buſineſſe; where<g ref="char:EOLhyphen"/>in I proteſt I ſhall thinke my ſelf happy to ſacrifice my life to accom<g ref="char:EOLhyphen"/>pliſh the ſame <hi>according to my deſires.</hi> One miſ-feazance in a buſineſſe of this nature is never to be repaired. Therefore upon the whole matter this is my Opinion, that it will be moſt neceſſary that the Go<g ref="char:EOLhyphen"/>vernour be drawn out with a good partie when the buſineſſe is to be done, I am ſure this will be with more ſafety on your ſide, eſpecially if the Allarm ſhould be ſuddenly taken; This will ſearce be done unleſſe w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Forces draw out of <hi>Tewksbury</hi> for the reaſon aforeſaid, which they may do towards <hi>Ledbury,</hi> and be neere enough to do the buſineſſe, and ſo enter on the <hi>beſt [beſt for us I me ne]</hi> ſide of the Town, as I have formerly written, and then could I give him ſome private information that I have intelligence that <hi>Berkley</hi> will tender (though they remove not) and ſo draw him out in whoſe abſence (ſince my hand is ſtill lame) I muſt keepe home, and then ſhall have abſolute Command of the Horſe, beſt for Scouts, and ſhall be able with more, facility and ſafety to do the buſineſſe with as much ſpeed as you pleaſe. I deſire you to conſider thereof, for) ſhall not be out of care till I ſee it perfe<g ref="char:EOLhyphen"/>cted, and that <hi>my good friends [the Parliament I meane]</hi> may have ſur<g ref="char:EOLhyphen"/>ther experience of my fidelity, and that I may ever be,</p>
+                     <closer>
+                        <dateline>
+                           <date>17. <hi>Ian.</hi> 1643.</date>
+                        </dateline>
+                        <signed>Your Servant, R. B.</signed>
+                     </closer>
+                     <postscript>
+                        <head>Poſtſcript.</head>
+                        <p>
+                           <hi>Sir,</hi> I beſeech you be infinite carefull to whom the buſineſſe be im<g ref="char:EOLhyphen"/>parted, and let me in charity before hand be-ſpeak you, that as lit<g ref="char:EOLhyphen"/>tle Townſ-mens blood may be ſpilt in the entrie as may be, it will
+<pb n="18" facs="tcp:154488:11"/>be better drawn after where cauſe is.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>This Letter wrought the end for which we ſent it to draw them on at the Weſt-gate, and beſt gate for our advantage, and to per<g ref="char:EOLhyphen"/>ſwade them of my reallitie to them.</p>
+               <p>Upon receite whereof, Sir <hi>William Vavaſour</hi> ſent me this Letter.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Sir <hi>William Vavaſours</hi> ſecond Letter.</head>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>I Have Received yours, and am very inclinable to your motion of drawing towards <hi>Ledbury,</hi> a place more feazible for me to draw my men to, then any other, it being within the aſſociated Counties; the Commiſſioners cannot pretend againſt it; but we muſt have a little pa<g ref="char:EOLhyphen"/>tience untill the contribution monies are brought in, for my men are ve<g ref="char:EOLhyphen"/>ry apt to mutinie, and indeede will not march without money. <hi>I</hi> ſhall with all poſſible conveniencie ſend to you, and give you a further ac<g ref="char:EOLhyphen"/>count of it, as alſo that I am, Sir,</p>
+                     <closer>
+                        <dateline>
+                           <date>19. <hi>Jan.</hi> 1643.</date>
+                        </dateline>
+                        <signed>
+                           <hi>Your moſt affectionated Servant,</hi> W. Va.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>After the receipt of this Letter, I waited to heare from them till the fourth of</hi> Feb. <hi>at which time J received theſe two Letters follow.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Maſter <hi>Stanfords</hi> Letter.</head>
+                     <p>
+                        <hi>DEAR Robin,</hi> now we are come to try you, and if you love your ſelf faile not in what you have promiſed, for if you do, beleeve it, you are ruined for ever. And if you intend really, give me notice by this bearer of all particulars concerning your Town, in what condition it now ſtands, and in ſo doing you will prove your ſelf that which I ever wiſhed you, and regaine me to be.</p>
+                     <closer>
+                        <signed>
+                           <hi>Your Friend as once I was reall,</hi> Edward Stanford.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>Sir</hi> William Vavaſours <hi>Letter.</hi>
+                     </head>
+                     <p>
+                        <hi>SIr,</hi> I am ſo confident of your reall intentions, that I am willing to fol<g ref="char:EOLhyphen"/>low your advice as far as in me lyeth. Sir <hi>William Waller</hi> is grown ſo ſtrong, that we muſt attempt ſomething out of hand, if you will order it ſo that I may have the Port on the Weiſh opened to me; <hi>I</hi> having the Word, will come with ſo conſiderable a force, that <hi>I</hi> will venture to make it good againſt all <hi>Maſſies</hi> Forces, they not taking the Allarum.
+<pb n="19" facs="tcp:154488:11"/>Friday or Sunday next will be a convenient time, my men are faine to march into the Country for ſubſiſtance.</p>
+                     <closer>
+                        <signed>W. Vavaſour.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Upon the receipt of theſe letters, the next newes we heard was, that Colonell <hi>Mynne</hi> and <hi>S. Leger</hi> with the <hi>Iriſh</hi> Forces marcht to <hi>Paynſ<g ref="char:EOLhyphen"/>wicke</hi> for ſubſiſtance, but indeed to plunder the Country; to prevent which our Governour drew out a party of horſe and foote, where there was a skirmiſh, and ſome loſſe on both ſides, the next day after which, the Country of <hi>Whiteſtone</hi> hundred roſe into a great body, and the Enemie hearing thereof, retreated that very day towards <hi>Tewkesbury</hi> againe. This by the way, but to theſe two Letters I ſent this anſwer by approbation as before, unto Maſter <hi>Stanford</hi> and Sir <hi>William Vava<g ref="char:EOLhyphen"/>four.</hi> 5. <hi>Feb.</hi> 1643.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>SIr: you writ unto me for the ſtate of this Garriſon, which I ſhall render you as neere as I can. Firſt, the Governour lyes at the houſe where I dwelt, and one Captain with him; before whoſe doore are two Drakes, and a Centry day and night, the great Gunnes left by my Lord Generall the Earle of Eſſex, are at the maine Guard neere the Croſſe before the Bell doore, being three in number, and there are ſeverall other ſmall cutts about the Croſſe, in which maine Guard there are or ſhould be every night, about one hundred men, ſome Citi<g ref="char:EOLhyphen"/>zens of the Trained Bands, and ſome ſelected men out of every Com<g ref="char:EOLhyphen"/>pany. Thus for the heart of the Tewne. Now for the Ports, the Go<g ref="char:EOLhyphen"/>vernour is making of three Sconces, one before the Eaſt Gate, another before the North Gate, and the third at the Fryers Orchard, where the Batterie was made at the time of the Siege; all of very great ſtrength, but they are none of them as yet finiſhed: there are at theſe Ports ſeverall Gunnes (viz.) at the North Gate two, at the inward North Gate three, at the Eaſt Gate one, and ſometimes two, at the South Gate two, to which Gate alſo the maine Guard is very neere; but it is uſuall with the Governour to remove the Gunnes often from one place to another. There are alſo other Gunnes upon the workes about the Towne, and at the Key, where alſo the Frigot lyes with a Guard in her; as for the Weſt Gate, there is alſo one Gunne, a Demy<g ref="char:EOLhyphen"/>culvering, but no Cannoneer that watcheth her as I could ever find, and as yet no Draw-bridge, but at all the other Gates there are Draw<g ref="char:EOLhyphen"/>bridges finiſhed, and we are now making Draw-bridges for the Weſt Gate, and Overs-Bridge, which I beleeve will not be finiſhed
+<pb n="20" facs="tcp:154488:12"/>yet this ten or twelve daies, the Guards are generally careleſſe, and many run from their duty to drinking, much diſcontent being a<g ref="char:EOLhyphen"/>mongſt both Officers and Souldiers for want of pay; and indeed the Guards are very weake in compariſon of what they have beene, and muſt needs be 10, as long as we keepe ſo many out Garri<g ref="char:EOLhyphen"/>ſons, as Presbury, Boddington, Huntley, W<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>bary, Arlingham, Frampton, Eſſington, Froſter, Horſley, and Lipp<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t; all which Garriſons being now kept, have drawne out a great number of the ſouldiers out of this. As for Proviſions and Ammunition, I have not beene in the Granery ſince the Siege, but to deale truely with you, I verily beleeve the Garriſon is fitted for ſixe moneths; for, the Corne of Maſter <hi>Guyſe,</hi> Maſter <hi>Dobbs,</hi> ſir <hi>Henry Spillar,</hi> ſir <hi>Ralph Dutton,</hi> and others whom we call malignants, was brought in, indeed by my ſelf; and ſince the Country hath brought much Corne into private houſes. I know two men who have laid in two thouſand buſhells here, and the Governour made a ſtrict Procla<g ref="char:EOLhyphen"/>mation, that all the Citizens ſhould make proviſion for ſix moneths, many of whom have done ſo, and they make Powder and Match every weeke as much or more then they ſpend. Thus have I gi<g ref="char:EOLhyphen"/>ven you a ſhort and true relation of the condition of this Garri<g ref="char:EOLhyphen"/>ſon, as neere as I can for the preſent thinke on, and ſhall be rea<g ref="char:EOLhyphen"/>dy to ſrtisſie you in any other thing you ſhall deſire by the next, beſeeching you to continue ſecreſie above all things, and not to conceive any jealouſie in his performance, who ſhall not think him<g ref="char:EOLhyphen"/>ſelfe happy till he ſee his ingagement really accompliſht and diſ<g ref="char:EOLhyphen"/>charged, and who hath hitherto throwed himſelfe into your hands, and reſolves to rely on you in time to come both for his life and fortune.</p>
+                     <closer>
+                        <dateline>
+                           <date>5. Feb. 1643.</date>
+                        </dateline>
+                        <salute>Sir:</salute>
+                        <signed>ever your many waies obliged ſervant, R. B.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>With this Letter I ſent one alſo to Sir <hi>William Vavaſour,</hi> as followeth.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Noble Sir:</salute>
+                     </opener>
+                     <p>I ſhall apply my ſelfe unto your time with all diligence, I have gi<g ref="char:EOLhyphen"/>ven Maſter <hi>Stanford</hi> an accompt of the ſtate and condition of our Garriſon. By the time propoſed in your Letter I hope the wa<g ref="char:EOLhyphen"/>ter
+<pb n="21" facs="tcp:154488:12"/>will be downe, which will much advantage your advance neere the Towne; I ſhall not deſire to defer it longer then the time pitcht on. As for your owne occaſions, ſo for the making of Draw<g ref="char:EOLhyphen"/>bridges in your paſſage, which I would not have to be any impe<g ref="char:EOLhyphen"/>diment thereto; For when they are made, Guards will be ſet at them, which may give the Allarum before the Gate can be ope<g ref="char:EOLhyphen"/>ned. Conſule together for your owne ſafeties and mine; onely be private, and for the opening of the Gate, and the word, leave it to me, and reſt aſſured that I ſhall be</p>
+                     <closer>
+                        <signed>
+                           <hi>Sir: your ſervant,</hi> R. B.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Theſe two Letters anſwered the end for which they were in<g ref="char:EOLhyphen"/>tended, to beget beleefe of my fidelity to them, to make them the more conſident to come on (which indeed was our chiefeſt care) and to anſwer their deſire of knowing the condition of our Gar<g ref="char:EOLhyphen"/>riſon, which notwithſtanding it was done as you perceive, yet ſo as without prejudice to our ſelves, the leaſt boy that comes into our Towne, being in moſt of the relations able to ſatisfie as much. Thus let the enemies to Religion, to the Lawes and Liberties of this famous Kingdome, and to the Priviledges thereof, be ſtill de<g ref="char:EOLhyphen"/>luded, but let Gods juſt and righteous cauſe ever proſper.</p>
+               <p>That theſe Letters were well taken by the enemy, appeares by Maſter <hi>Stanford</hi> next Letter as followeth.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>DEare <hi>Robin</hi> I thanke thee for thy conſtancy, and doubt not of your perſeverance in doing his Majeſty acceptable ſervice. Sir <hi>William Vavaſour</hi> bid me tell you that he cannot be ready ou Friday, or Saturday, in regard his forces are not yet marcht hither, but are on their way, where they muſt hault two or three dayes till monies come in, however upon Sunday or Munday we ſhall not faile to be within a dayes march of Gloceſter. And you muſt be ſure to ſend the ſame meſſenger to us who may eaſily finde us out. On Sunday faile not of this, for I long to ſee you. On Sunday without faile we ſhall be at Ledbury, and expect your man.</p>
+                     <closer>
+                        <signed>
+                           <hi>Yours, E. S. </hi>
+                           <date>
+                              <hi>6th. Feb.</hi>
+                           </date>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="22" facs="tcp:154488:13"/>
+               <p>MY man who brought this Letter told me of Maſter <hi>Stanfords</hi> de<g ref="char:EOLhyphen"/>ſire to a handſome Gelding that I had, whereupon to make him the more confident, and to perſwade them to come on, I ſent him that Gelding with this Letter, the next day after that Arch-traitor Captaine <hi>Davis</hi> had betrayed the ſmall Garriſons of Wesbury, and Huntley unto the Cavaliers. </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>Sir, <hi>I</hi> congratulate your good ſucceſſe yeſterday at Wesbury and Huntley, and doubt not ere long to ſee this County in a good and peaceable condition. <hi>I</hi> obſerve buſineſſes proſper beſt where leaſt bloud is ſpilt. My man told me of your deſire to my Gelding, I have ſent him with cheerefulnes, wiſhing him better for you, though it need not if he be well uſed. And I referre my Coach and Horſes for you alſo; againſt the time I ſhall obſerve your di<g ref="char:EOLhyphen"/>rection by the returne of my man, and reſt ever,</p>
+                     <closer>
+                        <signed>Sir: your moſt humble ſervant in great care as yet, R. B.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>I received no Anſwer to this Letter from Maſter <hi>Stanford,</hi> but thankes for my Gelding, and directions to my man to come from Worceſter, where he then was, to ſir <hi>Willam Vavaſour</hi> to Tewkſ<g ref="char:EOLhyphen"/>bury, from whom I received this Letter, dated 10th <hi>Feb.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>SIr: I will be in the Forreſt ſide on Tueſday next, where I will be either at Newent or thereabouts; if you direct your ſer<g ref="char:EOLhyphen"/>vant to me, or to ſir <hi>Iohn Winter,</hi> for whoſe ſecreſie I will an<g ref="char:EOLhyphen"/>ſwer to you, and obſerve any directions you will ſend me, if you cannot conveniently meet me, which <hi>I</hi> muſt deſire,</p>
+                     <closer>
+                        <signed>Yours: William Vavaſour.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>On Tueſday following, according to the direction of ſir <hi>William Vavaſours</hi> Letters I ſent this Letter, to maſter <hi>Stanford.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR:</salute>
+                     </opener>
+                     <p>IN the whole progreſſe of the buſineſſe, I have not been put unto it as now to fulfill your expectation in ſending to you my man, who was laſt with you, was ſo affrighted, being knowne by your Scouts when he came laſt from you, that he dares goe no more, how to get a<g ref="char:EOLhyphen"/>nother willing and faithfull I know not But hearing the Governout ſay he muſt ſend to ſir <hi>William Vavaſour</hi> about priſoners, and his Trumpet being ſicke, I tooke advantage thereof to ſend mine, and have ſent this to you under pretence of exchanging a Trooper of mine in Oxford, one <hi>Henry Hullins;</hi> I received a Letter from ſir <hi>William
+<pb n="23" facs="tcp:154488:13"/>Vavaſour</hi> by my man, but none from you and have ſent according to his deſire. If you march to Newent as he wrote, it cannot be better, for from thence may you march to Upleaden, and by Rudford, and give no Ala<g ref="char:EOLhyphen"/>rum to Churcham, and ſend but a Troop to poſſeſſe Overs-bridge, hat in<g ref="char:EOLhyphen"/>telligence come not, and then may you paſſe cleerly undiſcovered, ſo as you be there before the Centries or the Guard at that bridge be ſet, nei<g ref="char:EOLhyphen"/>ther of which are done before about nine of the clock at any time. I e<g ref="char:EOLhyphen"/>very night as Commander of all the horſe of late, have ſent out Scoutes, ſome towards Tewksbury, and ſome towards Huntley, and the Forreſt, and can have the keyes at my command to let them out, which hath oc<g ref="char:EOLhyphen"/>caſioned me to think on this way, if you like it, that I may provide Scouts out of mine owne Troope to goe towards the Forreſt, that night you appoint, who ſhall not be ready till the buſines be done. But I can take the keyes of the Weſt-gate and goe downe thither, pretending to ſtay for their comming, and ſet the Gnard, which as I wrot is very ſlender uſually, to drinke in an Ale-houſe till they come in, which time you may advance, and finde no living ſoule but my ſelfe at the Gate, or if one or two ſhould be there, they ſhall be drunk, and you may pretend, as I ſhall alſo affirme, that you are our owne men from Churcham, where there is a ſmall Guard of horſe and foote, and which if you diſturbe not, will continue there yet a while; I would gladly meete ſir <hi>William Vavaſour,</hi> but I am very fearefull of notice being taken of me; and if I ſhould meete him, I know not him, nor he me, which may prove prejudiciall to either of us, if you deſire to be ſarisfied in any thing, I thinke I could meet you in the old place without any notice, and I dare adventure on my knowledge of you at an eſcaping diſtance. For the Word, when we meete I will ſhew you a place, where (after it is given) you ſhall finde it in a Parchment faire written. This I think will be very feazible; but I ſhall be ready, as you ſhall preſcribe, to doe any thing in the power of</p>
+                     <closer>
+                        <dateline>
+                           <date>13. Feb. 1643.</date>
+                        </dateline>
+                        <signed>Your moſt humble ſervant, R. B.</signed>
+                     </closer>
+                     <postscript>
+                        <p>Let my Trumpeter know nothing but of the exchange, but wiſh him to deliver any thing you ſend to me, to mine owne hand, which I know he will be carefull in.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>With this Letter my Trumpeter was ſtayed by Colonell <hi>Paget,</hi> from Tueſday 13. <hi>Feb.</hi> till Thurſday, upon pretence that he came too late into his Garriſon. On Thurſday morning I ſent to Newent to Mr. <hi>Stanford</hi> this Letter.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>SIr: I wrote a Letter to you by my Trumpeter, who went to Tewksbu<g ref="char:EOLhyphen"/>ry on Tueſday, I perceive he is there ſtayed, which puts me in feare; I would deſire you ſuddenly to ſend for him, and I ſhall meete you at
+<pb n="24" facs="tcp:154488:14"/>what houſe you ſhall appoint in the old place, the more ſpeed you make n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w the better, as before the Draw bridges be up, ſo for our waiting on you, which as yet we doe not, ſcarce knowing that any force confidera<g ref="char:EOLhyphen"/>ble is come to Newent; the ſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ller you lye the more ſecure ſhall we be. The Plot I preſcribe in my Letter, runs more and more feazible in my head, I could laſt night have done it gallantly, I doubt not of as faire an opportunity to expreſſe my ſelfe indeed,</p>
+                     <closer>
+                        <signed>Your reall ſervant, R. B.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This Plot I preſcribed aſwell to ſecure mine owne perſon within the Gates, as to render it probable unto them, which it ſeemes they could not diſlike, for that very day they ſent backe my Meſſenger from Newent to me againe with this Letter.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>DEARE Robin,</hi> the time is now ſo far ſpent, that it is impoſſible for me to meet you, this night being reſolved for the buſineſſe, ſo that you muſt not f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ile this night to draw off all your Guards from the Bridge, that we may come ſecure to the Gate, and not have any Cen<g ref="char:EOLhyphen"/>tries to hinder us, and withall you muſt be ſure to let me heare from you this night by ſix of the clock, as for our ſtrength we are now fifteene hundred foot and horſe, if you can come your ſelf with your Troop, pretending to beate up a horſe quarter, it would be very ſatisfactory to Sir <hi>William Vavaſour;</hi> you muſt be there by 8. of the clock, but this we ſhall not preſſe, if you think it inconvenient, howſoever you muſt ſend the Word, being aſſured you will do your beſt to advance this deſign,</p>
+                     <closer>
+                        <signed>E. S.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Immediatly aſſoone as I had received this letter I went to the Go<g ref="char:EOLhyphen"/>vernour, and a conſultation we had, whether to let them come that night according to their appointment, or to put it off. But we being provided for them, it was agreed upon that night, I therefore preſently ſent this letter to Maſter <hi>Stanford.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>SIR,</hi> I ſhall waite with diligence to open the Gate, which ile warrant you ſhall be done, ſo as you come by 9. of the clock, or within half an houre after, the Word I have ſent, which occaſions the later ſending of this bearer, it is, <hi>Briſtoll:</hi> Be ſure to come ſtrong enough, and remem<g ref="char:EOLhyphen"/>ber to come up by the Bare land, which is a ſafer way to ſurprize the Maine Guard, then to come up the main ſtreete: ſome in your company cannot but know the way, I reſt in hope.</p>
+                     <closer>
+                        <dateline>
+                           <date>15. <hi>Feb.</hi> 1643.</date>
+                        </dateline>
+                        <signed>Your Servant, <hi>R. B.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="25" facs="tcp:154488:14"/>
+               <p>Preſently after the ſending away of which Meſſenger, the Gates being ſhut round the Garriſon, and carefull Sentinels ſet. The Governour cal<g ref="char:EOLhyphen"/>led a Counſell of War, acquainted all the Officers with the Plot, gave order that all as well Citizens as Souldiers ſhould continue that night in Armes, drew three peeces of Ordnance to the Weſt-gate, and a ſtrong guard of Muſ<g ref="char:EOLhyphen"/>quetiers well provided with Granadoes and Amunition, and placed foure ſtout men in a Boat under Overs bridge, who lay under the Arch private, with directions that upon fireing the firſt Gun they ſhould but cut a Gable<g ref="char:EOLhyphen"/>rope, which being done, the bridge would have fallen in, whereby (by Gods mercy) of neceſſity they muſt all have been killed, drowned, or taken, there being no poſſible meanes in humane reaſon of a mans eſcape, in this poſture, preparation, and expectation, we continued all that night watching diligent<g ref="char:EOLhyphen"/>ly, but privately, for a happy time to have delivered our ſelves, and the whole Kingdome from the future miſchiefe of ſuch ſubtill inſinuating, and blood<g ref="char:EOLhyphen"/>thirſty Enemies. But Gods time was not then come; For albeit they did ad<g ref="char:EOLhyphen"/>vance with their whole body, both of Horſe and Foot; yet when they came to <hi>Laſſington</hi> Hill within a mile of the Towne, it was faire day, whereby they having loſt their time by their owne ſlowneſſe of march, they durſt not come on, but inſtantly retreated to <hi>Newent,</hi> as appeares by this Letter which I received from Maſter <hi>Stanford,</hi> on the morrow after, being Friday.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>The ſixteenth of February,</hi> 1643.</date>
+                        </dateline>
+                        <salute>DEare <hi>Robin,</hi>
+                        </salute>
+                     </opener>
+                     <p> your Meſſenger came ſo late, that we could not poſſibly ef<g ref="char:EOLhyphen"/>fect the deſigne; yet our confidence of your beſt aſſiſtance made us at<g ref="char:EOLhyphen"/>tempt it; but it being day before wee could poſſibly come, wee muſt once againe deſire the like readineſſe from you on Saterday, or Sunday at the far<g ref="char:EOLhyphen"/>theſt, and then we ſhall not faile to be in a readineſſe; it was ten of the clock before he came. I ſhall deſire your anſwer either to day or to morrow at the fartheſt.</p>
+                     <closer>
+                        <signed>Yours E. S.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>THe receipt of this Letter made us beleeve that the Enemy had then recei<g ref="char:EOLhyphen"/>ved no information that their deſigne was deſtroyed and made knowne, and ſo much the rather for that we kept the Gates ſo cloſe ſhut, the next day after being Friday, that we ſuffered no man to paſſe the Ports upon any buſi<g ref="char:EOLhyphen"/>neſſe whatſoever, which made us willing to ſee if wee could ſalve the buſi<g ref="char:EOLhyphen"/>neſſe by another Letter, and to give them incouragement to come on againe. Whereupon this Letter was written, and ſent the next day to M<hi rend="sup">r</hi>. <hi>Stanford</hi> with this Note incloſed.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <label>The note.</label>Sir take heed what you do, the Allarum is taken by the intelligence of two
+<pb n="26" facs="tcp:154488:15"/>country-men, who brought in word to the Governour of your advance this way. The Guards are ſtrengthened, and much puzle here is at preſent, where<g ref="char:EOLhyphen"/>of I wiſh you to take notice from</p>
+                     <closer>
+                        <signed>Your Servant <hi>R. B.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <label>The Let<g ref="char:EOLhyphen"/>ter.</label> SIr I am glad you came not the laſt night, I hope ſome good fate was in it, I was never ſo at my wits end, and yet for my hanging durſt make no ſhew of it. Whilſt I was writing to you, and deviſing to ſend the Meſſenger cleanly out at the Gate, which I was faine to act in mine own perſon: The Governour received information by two country-men that you were march<g ref="char:EOLhyphen"/>ing this way, and that ſome of your ſouldiers ſhould give out, that the Weſt-gate was to be opened to them by ſome very neare unto him. Whereupon there was an Allarum, and one great Gun drawne to the Weſt-gate, and the Guard there made ſtrong; much muttering was who ſhould be the man to let you in; ſome gave out that I was diſtruſted, others that it was ſome Towneſman. In the beginning of theſe buzzings I came to the Gover<g ref="char:EOLhyphen"/>nour, who told me of his intelligence. That you were marching for <hi>Glauce<g ref="char:EOLhyphen"/>ſter,</hi> upon hopes of being let in. I ſaw how things were, and ſeeing a prepara<g ref="char:EOLhyphen"/>tion for an Allarum, the Commanders all ſent for, a new Word inſtantly gi<g ref="char:EOLhyphen"/>ven, and a reſolution ſpeedily to be in Armes; bethought my ſelfe on the ſud<g ref="char:EOLhyphen"/>den what to do to cleare my ſelfe of ſuſpition with the Commanders: For as for the ſouldiers and peoples tattle I regarded it not; thus therefore I decla<g ref="char:EOLhyphen"/>red my ſelfe. Gentlemen, you have received ſome intelligence (as it ſeemes) of the Enemies advance this night, and here is muttering about the ſtreets of ſome plot to let them in, and I am ſuſpected to have ſome hand in it, how clearely, and without exception I have hitherto carried my ſelf both towards you, and the buſineſſe, I appeale unto your ſelves to judge, and for the buſi<g ref="char:EOLhyphen"/>neſſe, I came now to tell you, that I have received intelligence from a friend of mine in the country, that the Enemy meanes certainly to be here this night, and therefore I adviſe you by all meanes to be in readineſſe, and know this from me, that they have ſome promiſe from ſome Citizens to have the Gate opened, and to make the diverſion from my ſelfe ſo much the more cleare, I told them of two men whom I much ſuſpected, (and of whom I knew they had no good opinion) but adviſed them as to be carefull this night in their Armes ſo to ſet ſome ſpies over theſe mens carriages, and as ſoone as an appa<g ref="char:EOLhyphen"/>rant charge could be proved againſt them, which I did not doubt would ſud<g ref="char:EOLhyphen"/>denly be, I would bring them to a Counſell of Warre, and in the meane time endevour to ſearch out the buſineſſe, and perfect the charge againſt them. This ſo tooke with them, that they all gave applauſe to what I had ſaid, deſired me to take more ſpeciall notice towards thoſe two men: And the Governour
+<pb n="27" facs="tcp:154488:15"/>gave-teſtimony (I having done him ſome perſonall office of acceptable ſer<g ref="char:EOLhyphen"/>vice) of his beliefe of my fidelity, to which all the reſt of the Commanders aſſented alſo.</p>
+                     <p>This being done, every man was repairing to his Armes, wherein I was not backward my ſelfe to give command to the Horſe to be in readineſſe, and to encourage the Souldiers; But ſtill at the. Governours elbow. But I ſhould have told you that as ſoone as I ſaw theſe things thus running, I inſtantly went home, and gave my man <hi>Ned</hi> this incloſed Note, and I walked as far as <hi>Overs</hi> Bridge with him waiting on me, to hearken whether we could heare any noiſe, where (by my directions) he ſlipt from me, and though I could not get him to undertake to find you out (being ſo uſed the laſt time he came from you, as I wrote unto you) yet he lay in a ground beyond the Wynnyard till two of the clock waiting your comming, and afterward lay in a Barne till morning. But I muſt confeſſe that I collected by your Letter, that it would be impoſſible for you to come from <hi>Newent</hi> in due time upon ſo ſhort warn<g ref="char:EOLhyphen"/>ing, which made my care eſpecially after midnight a great deale the leſſe. Yet I had reſolved to have given you notice of the Allarum being taken if I had diſcerned your Advance, which I could have done my ſelfe (being tyed to ſpeciall place of Command) by riding into a private back place, and diſcharg<g ref="char:EOLhyphen"/>ing my Piſtoll for you to take notice of, and let that be your ſigne if I ſhould be driven to a ſtrait in time to come. Well, about twelve or one of the clocke we went all to bed, the Guard at that Gate a little ſtronger than ordinary, and all was quiet, and I am yet in like favour and eſteeme as before, with Officers by mine expreſſions, and with Souldiers by giving them money: and Ale: And for the meane Citizen, let him mutter what he will it matters not. The great Gun is drawne off the Gate to the Governours doore, and another that was drawne that way, is drawne back to the maine Guard. We had intelli<g ref="char:EOLhyphen"/>gence yeſterday morning, about ten of the clock, that you were retreated to <hi>Newent,</hi> and ſetling a Garriſon there in quiet, and we are in our old ſecurity againe. The Vote going ſtill that there was ſome plot, and I being (as I ſaid) ſet to find it out, for the more colourable effecting whereof alſo, I procured the Gates to be ſtrictly watcht yeſterday by an Officer at each Gate, ſearce ſuffering any to paſſe out, to ſee if wee could take the intercourſer betweene you and the Plotters, which courſe I would have alſo got continued for two or three dayes longer, were it not for the Market to day, which will hand<g ref="char:EOLhyphen"/>ſomely occaſion the forbearance.</p>
+                     <p>Sir you write unto me for this night or Sunday, my opinion is cleare, that if you lye ſtill at <hi>Newent,</hi> not giving us Allarums till Sunday after dinner, and then advance your Foot to be here by nine of the clock, being a time that peo<g ref="char:EOLhyphen"/>ple paſſe not ſo much with intelligence as in the week-dayes: And if you
+<pb n="28" facs="tcp:154488:16"/>ſend but a Troope of Horſe to <hi>Overs</hi> Bridge, in the very ſhutting of the even<g ref="char:EOLhyphen"/>ing, to prevent notice you may do it (Ile be bold to ſay) as eaſie as may be; but that muſt be your firſt work, if you think fit to ſend a truſty ſecret man, who is a ſouldier, or, but rationall to me, I ſhall ſhew him all the convenien<g ref="char:EOLhyphen"/>ces of the paſſages, the place where for you to draw up undiſcovered, where to place your reſerve to retreat unto, if occaſion ſhould be, where to find the Word, and what hinderances and obſticles are poſſible to be in the way. If he come to day upon a ſack of oates, as from <hi>Rudford,</hi> to me along with this bearer, Ile warrant his ſafe returne upon my life: Conſider well your time and houre, and let me know, and Ile not faile to do the utmoſt in the power of your Servant (though a little ſcard.)</p>
+                     <closer>
+                        <signed>R. E.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>To this Letter I received this Anſwer from Master </hi>STANFORD,<hi> the ſeventeenth of </hi>February 1643.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>DEare <hi>Robin,</hi> Sir <hi>William Vavaſour</hi> hath this morning received a Com<g ref="char:EOLhyphen"/>mand to draw great part of his Forces on the other ſide of the water, but he doubts not, but to return about the middle of the next week with a greater Force, and hopes by that time you will prepare all things: In the interim he deſireth you to hold correſpondence with Sir <hi>John Winter,</hi> whom you may truſt, who will be conſtantly at <hi>Lidney.</hi>
+                     </p>
+                     <closer>
+                        <signed>Yours E. S.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>According to the contents of this Letter, Sir <hi>William Vavaſour</hi> did draw off the greateſt part of his Forces from <hi>Newent</hi> to meet our Convoy com<g ref="char:EOLhyphen"/>ming from <hi>Warwicke,</hi> but for his purpoſe of returning, we beleeved not that, but rather to keep faire correſpondence with me, that their miſchievous and frivolous deſigne might not appeare unto the world to their diſparagement. Yet it is obſervable, that Sir <hi>John Winter,</hi> a knowne Papiſt, and who is re<g ref="char:EOLhyphen"/>ported to have laid downe his Armes with other Papiſts, is now appointed to keep correſpondency with me: Thus would they make the world to think that Papiſts ſhal not beare Armes for the King to maintain the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, and yet they ſhall or will be acting ſomething more miſchievous, and deſtructive to the peace of the Kingdome, than the fury of their perſonall Armes can effect: I pray God deliver his ſacred Majeſty from ſuch aſſiſtance. But to conclude, wee not yet (by what wee received from them) certainly knowing whether they were yet ſenſible of their owne folly, and ſhame.</p>
+               <pb n="29" facs="tcp:154488:16"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>This one Letter more was ſent to Maſter <hi>STANFORD, Febr. 22.</hi> or in his abſence to Sir <hi>JOHN WINTER.</hi>
+                     </head>
+                     <p>SIR, According to your directions I have ſent unto you againe, tendering mine own readineſſe, really to do you ſervice, but withall complaining of your infinite openneſſe in the carriage of the buſineſſe, it being in the mouths of moſt of all your ſouldiers, from whom it hath by ſundry intelligencers been ſpread here amongſt both Town and Country. I have heard ſuch things as have made my eares glow, and had I not uſed all poſſible meanes to ſatisfie the Officers of my fidelity to them, and that reports have rendered them va<g ref="char:EOLhyphen"/>rious and uncertain, I had ſuffered ere now. Well, the ſtrangeſt relations are but nine dayes wonder. I ſhall ſuffer this to weare it ſelfe off, by ſuffering the relators and their hearers to reſt uncertain, unſatisfied; and doubt not in due time to manifeſt unto you and the world, that my heart is right in deſpite of all croſſe reports or jealouſies; only thus much let me begge at your hands, if ever you meane to accompliſh the deſigne of a ſurpriſall, to be more private in your expreſſions, more politique in relating to your ſouldiers truly your own Marches, more conſtant in your reſolutions and prefixions, and more ſudden in your actions. If the imparting of ſo great a ſecret into ſundry hands be not dangerous; if acquainting your common ſouldiers with the true end of your March be not too open; if ſundry appointments, and failings of thoſe times may not beget ſuſpition of your agents; and whether ſurpriſals ought not to be ſudden and unlookt for, I leave to you to judge. Thus much by way of caution I thought fit to write, deſiring you to conſider of it: But know aſ<g ref="char:EOLhyphen"/>ſuredly, that for mine own part, I ſhall be ready, when you ſhall appoint, to performe really what I have undertaken, and to manifeſt unto you that I am</p>
+                     <closer>
+                        <signed>Sir your Servant, R. B.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This Letter written as a lure to draw you downe againe, was delivered to M. <hi>Stanford,</hi> who ſent the Meſſenger to Sir <hi>John Winter</hi> with it, giving him<g ref="char:EOLhyphen"/>ſelf no anſwer at all to it; Sir <hi>John Winter</hi> was at <hi>Briſtol,</hi> but his Lady wrote that anſwer ſhould be ſent by Sir <hi>John</hi> aſſoone as he came home, of which I have yet heard nothing, by which we clearely conceive the buſineſſe to be de<g ref="char:EOLhyphen"/>ſerted by them.</p>
+               <p>Now let the world judge whether theſe ſeducing Enemies have not been fitly ſerved in their own kind, as they like this, let them attempt to faſten their doctrine of <hi>fallere fallentem</hi> upon me again. No let the deformity of that doctrine, and the fruits thereof reſt in the breſts of thoſe that preach it, who deeme others like unto themſelves. But let the world know, that neither hope of honour which is but a puffe, nor hope of gain which is uncertain when at<g ref="char:EOLhyphen"/>tained, and ſordid in ſuch atchievement, nor the fawning of ſuch friends who aime at their own ends, nor any other ſiniſter unworthy end ſhall ever pre<g ref="char:EOLhyphen"/>vaile
+<pb n="30" facs="tcp:154488:17"/>with me to undertake any ignoble action, much leſſe any ſuch action as this; As to perjure my ſelfe with God having taken ſeverall oathes, and pro<g ref="char:EOLhyphen"/>teſtations to the contrary; No the ranſome of a ſoule is of higher value with me to betray my Religion the moſt hopefull Legacy I can leave to my poſterity, to betray my Countrey with the Lawes, Liberties, and Priviledges thereof, into the hands of Arbitrary power or Tyranny, and inſteed thereof to procure a never-dying curſe from all ſucceeding generations in this King<g ref="char:EOLhyphen"/>dome to betray my truſt, ſo great a truſt committed unto me by ſo great and worthy perſonages as the Patrons, and by Gods bleſſing the preſervers of three famous Kingdomes, to deny mine owne hand which I ſolemnely ſub<g ref="char:EOLhyphen"/>ſcribed, with other faithfull Commanders in this Gariſon, avowing unto the Herauld ſent by His Sacred Majeſty, to maintaine our fidelities to the laſt drop of our bloods, to render my ſelfe unworthy of ſuch unſpeakable and wonderfull deliverance which I (amongſt others) received in the late Siege from the Almighty hand of God, thereby rendring my ſelfe not onely unfit for future mercies, but the moſt ingratefull wretch amongſt men, to ſell my ſelfe to worke ſo horrid wickedneſſe, to betray my ſelfe my wife and family, my friends, kindred, and deare acquaintance, into the hands of blood-thirſty cruell, and numercifull people, to make my ſelfe guilty not onely of all the blood that muſt needs have beene ſpilt in the forcing and ſacking of ſo fa<g ref="char:EOLhyphen"/>mous a City, but of mine owne blood alſo; for their wiſedome had beene more ſeene if they had killed me to have ſaved the two thouſand pound they were engaged for, then either it, or their honeſty, was in attempting to ſe<g ref="char:EOLhyphen"/>duce me, to make me their inſtrument in ſo foule a Plot, and to Chronicle my name amongſt the Regiſter of Arch-Traytors to all poſterity, Noe, my prayer, my heart, and hand ſhall ever be for the maintenance of ſo juſt a cauſe, wherein if I ſacrifice my life and for tune, I doubt not of my reward with ad<g ref="char:EOLhyphen"/>vantage. And let the great God of heaven whoſe great worke is now in hand, proſper his true and faithfull ſervants, His inſtruments in the furthering there<g ref="char:EOLhyphen"/>of, but let His enemies periſh, and be confounded in all ſuch their treacherous deſignes, And let all thoſe that wiſh well unto the ſtate of this Kingdome be glad, and rejoyce with us at the benefit that hath accrewed unto the ſame by embracing of this buſineſſe (of which we are here right ſenſible) and that for the reaſons herein before expreſſed, and upon which it was firſt thought fit to be accepted.</p>
+               <p>
+                  <hi>This is the whole truth.</hi>
+               </p>
+               <p>The matter it ſelfe doth ſufficiently vindicate mine integrity who neither deviſed nor acted any part without conſent and for the advantage of the pub<g ref="char:EOLhyphen"/>lique ſervice. And for the honour of the Action on my part ſo much is un<g ref="char:EOLhyphen"/>queſtionable, that it were juſt upon them if they had all periſhed in the de<g ref="char:EOLhyphen"/>ſigne; they were condemned by their owne Doctrine, and the law of like
+<pb n="31" facs="tcp:154488:17"/>for like. But the queſtion is whether the like deceipt might be retorted upon them in this caſe by one who ſtrives to maintaine the repute of ſincerity; concerning which let wiſe men judge. Firſt, I never paſſed my ſelfe over to them by any oath or proteſtation, which alone admits of no equivocation, and without which they could have no ſufficient ground of truſt, then what<g ref="char:EOLhyphen"/>ſoever I promiſed was made good, but with a croſſe intention, and to a con<g ref="char:EOLhyphen"/>trary end, upon which grounds I ſee no reaſon why I might not feed them with vaine hopes, when all acknowledge that by the colour of an action I may lawfully deceive the enemie into a ſnare. So that I am confident, that I ſhall ſtand <hi>rectus in curia,</hi> and if not commended, yet at leaſt acquitted in the Court of honour. And whereas I have beene traduced for a Traytor as holding correſpondence with the enemy, beſides that ſatisfaction which this relation can give, I this declare my ſelfe. I am aſſured of the juſtice of the cauſe, Religion, and Liberty, I am aſſured of the extreame neceſſitie, that puts the State upon this forcible meanes and wayes of reſiſtance; I am aſſured of the lawfulneſſe of the warre on our part, by the Law of God, by the law of nature, and by the lawes of this Kingdome. And ſuch thoughts are the ſtrongeſt aſſurance of fidelity if the ſecrets of the heart could be laid open. But becauſe Hypocriſie may be covered with a faire varniſh, there being no ſufficient ground of confidence in the conſciences of men, or the goodneſſe of their natures. To give you a cleare teſtimony; although no man can tell to what Center my thoughts incline, and move; yet all conclude, that accor<g ref="char:EOLhyphen"/>ding to the principles of nature, I muſt neceſſarily be true to my ſelfe, and worke out my own welfare, according to mine owne judgement and know<g ref="char:EOLhyphen"/>ledge. And this judgement is ſo cleare againſt all conſpiracies of this nature, that I ſhall never be wrought thereunto, except it were poſſible for me wit<g ref="char:EOLhyphen"/>tingly and willingly to contrive my owne deſtruction; for at the leaſt ſuch an enterpriſe repreſents it ſelfe full of difficulties, and every way perilous, and if I can accompliſh it, I loſe my ſelfe; for if I might hereby purchaſe a King<g ref="char:EOLhyphen"/>dome it will never get me honour. And I know it is the practiſe of the ene<g ref="char:EOLhyphen"/>my to recompence the Traytor with ſome titular reward, but no truſt; Beſides this diſcovery hath put me into a condition beyond the poſſibility of a re<g ref="char:EOLhyphen"/>lapſe. And had not my fidelity and fore-knowne conſtancy put me on, I might have reſerved for my ſelfe a faire retreate in the time to come; but ha<g ref="char:EOLhyphen"/>ving engaged my ſelfe by a manifeſt declaration, I muſt now needs goe through or be quite ruined.</p>
+               <p>
+                  <hi>Robert Backhouſe.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>The Committee of the Houſe of Commons for the Gariſon of <hi>Gloſter</hi> doe thinke fit that this Booke be printed,</hi> 3. May. 1644.</p>
+            <closer>
+               <signed>THOMAS PURY.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
